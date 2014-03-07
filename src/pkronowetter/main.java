@@ -3,11 +3,11 @@ package pkronowetter;
 public class main {
 
 	public static void main(String[] args) {
-		Gruﬂ g = new Gruﬂ();
+		Gru√ü g = new Gru√ü();
 		
 		g.begruesung();
 		g.begruesung2();
-		g.abschied();
+		g.abschied(); 
 
 	}
 
