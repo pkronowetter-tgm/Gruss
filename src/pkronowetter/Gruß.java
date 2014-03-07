@@ -1,7 +1,7 @@
 package pkronowetter;
 
 
-public class Gruﬂ{
+public class Gru√ü{
 	
 	public static void begruesung (){
 		System.out.println("Hallo lieber User");
@@ -12,6 +12,6 @@ public class Gruﬂ{
 	}
 	
 	public static void abschied(){
-		System.out.println("Auf Wiedersehen");
+		System.out.println("Auf Wiedersehen"); 
 	}
 }
